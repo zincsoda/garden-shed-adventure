@@ -2,9 +2,11 @@
 
 A small top-down pixel adventure game built with HTML5 Canvas. Explore the garden, enter the shed, and collect tools.
 
+It started in our family WhatsApp group — conversation drifted to the idea of us having a shed together, and somehow that became "let's build a virtual one." This is that shed.
+
 ## Play
 
-Live demo: https://garden-shed-adventure.steven-walsh39.workers.dev
+**https://shed.swlabs.cc**
 
 ## Controls
 
